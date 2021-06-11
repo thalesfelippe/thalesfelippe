@@ -1,4 +1,4 @@
-# ![Dino](https://aco.com.br/wp-content/uploads/2019/03/google-friendly.gif =70x70) Welcome
+# <img src="https://aco.com.br/wp-content/uploads/2019/03/google-friendly.gif" width="70"/> Welcome
 
 My name is **Thales Felippe** I'm 20 years old, I'm from Brazil and a self-taught student, that has been working as a Front-End developer since 2021. 👨‍💻
 
