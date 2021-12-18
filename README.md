@@ -7,7 +7,7 @@ My name is **Thales Felippe** I'm 20 years old, I'm from Brazil and a self-taugh
 - 📍 From SC living in Florianópolis  <img align="right" src="https://i.imgur.com/h5UBwOP.gif" width="200"/>
 -  💻 Currently Studying:
 - ![VueJs](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-- 👨‍💻 Front-End developer at [**Art Lab**](https://artlab.dev/) 
+- 👨‍💻 Front-End developer at... 
 
 **"There is always something new to learn"** 🚀
 
