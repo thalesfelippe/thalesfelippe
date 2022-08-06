@@ -7,7 +7,7 @@
 
 **"There is always something new to learn"** 🚀
 
-Reach me out 👇
+Reach me out 👉
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Felippe-ef233c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-felippe-9205761bb/)](https://www.linkedin.com/in/thales-felippe-9205761bb/) [![Gmail Badge](https://img.shields.io/badge/-thales.dev.flp@gmail.com-ef233c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thales.dev.flp@gmail.com)](mailto:thales.dev.flp@gmail.com)
 
 <a href="https://github.com/thalesfelippe">
