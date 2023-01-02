@@ -11,6 +11,7 @@
 **I'm looking for new opportunities, if you're interested, feel free to say hi**
 
 Reach me out 👇
+
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Felippe-42b883?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-felippe-9205761bb/)](https://www.linkedin.com/in/thales-felippe-9205761bb/) [![Gmail Badge](https://img.shields.io/badge/-thales.dev.flp@gmail.com-42b883?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thales.dev.flp@gmail.com)](mailto:thales.dev.flp@gmail.com) ![](https://komarev.com/ghpvc/?username=thalesfelippe&color=42b883)
 
 <a href="https://github.com/thalesfelippe">
