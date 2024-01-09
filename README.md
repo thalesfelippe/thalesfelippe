@@ -1,7 +1,7 @@
 # Hi, I Am Thales Felippe
 Currently, I work as a Front-End Developer at Acrux Capital and study Systems Analysis and Development at Estácio University.
 
-at Acrux Capital, specializing in TypeScript, ReactJS and NextJS. I focus on enhancing user experience, implementing features, and optimizing performance. Collaborating with designers and developers, I ensure projects meet specifications and deliver high-quality, visually appealing results for various devices.
+At Acrux Capital, specializing in TypeScript, ReactJS and NextJS. I focus on enhancing user experience, implementing features, and optimizing performance. Collaborating with designers and developers, I ensure projects meet specifications and deliver high-quality, visually appealing results for various devices.
 
 This combination of academic training and professional experience has enriched my career, enabling the practical application of the knowledge acquired in a dynamic environment.
 
