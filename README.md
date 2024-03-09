@@ -3,7 +3,7 @@
 
 My name is Thales Felippe and I'm a Front-End developer. I became interested in web development in 2020 when a friend introduced me to a project. Since then, I've been self-learning programming.  
   
-With 2 years of experience, I focus my career on Front-End and have skills in technologies like ReactJS, TypeScript, and JavaScript. I also have knowledge in code versioning using GitHub. I excel in creating responsive and intuitive interfaces, prioritizing usability and accessibility. I always stay updated with the latest trends and commit to following the best development practices.  
+With 2 years of experience, I focus my career on Front-End and have skills in technologies like ReactJS, TypeScript, and JavaScript. I also have knowledge in code versioning using Git and GitHub. I excel in creating responsive and intuitive interfaces, prioritizing usability and accessibility. I always stay updated with the latest trends and commit to following the best development practices.
   
 Currently, I'm pursuing a degree in Analysis and Systems Development at Estácio University, aiming to further enhance my knowledge and skills in the field.  
   
