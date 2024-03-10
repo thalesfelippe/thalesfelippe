@@ -1,13 +1,13 @@
 
 ## Hi there <div align="right">  <img src="https://komarev.com/ghpvc/?username=thalesfelippe&color=549FDE" alt="Profile views">  </div>
 
-My name is Thales Felippe and I'm a Front-End developer. I became interested in web development in 2020 when a friend introduced me to a project. Since then, I've been self-learning programming.  
-  
-With 2 years of experience, I focus my career on Front-End and have skills in technologies like ReactJS, TypeScript, and JavaScript. I also have knowledge in code versioning using Git and GitHub. I excel in creating responsive and intuitive interfaces, prioritizing usability and accessibility. I always stay updated with the latest trends and commit to following the best development practices.
-  
-Currently, I'm pursuing a degree in Analysis and Systems Development at Estácio University, aiming to further enhance my knowledge and skills in the field.  
-  
-I'm flexible and open to new connections and challenges. If you're looking for a dedicated and committed developer, I'm ready to exchange experiences and contribute to your projects.
+My name is Thales Felippe and I am a Front-End developer. My interest in web development arose in 2020, when a friend introduced me to a project. Since then, I have been learning to program on my own.
+
+With 2 years of experience, I focus my career on Front-End and have skills with technologies such as ReactJS, TypeScript and JavaScript. I also have knowledge in code versioning using Git and GitHub. I stand out in creating responsive and intuitive interfaces, with a focus on usability and accessibility. I'm always up to date with the latest trends and committed to following best development practices.
+
+I am currently studying a degree in Systems Analysis and Development at Universidade Estácio, with the aim of further improving my knowledge and skills in the area.
+
+I am flexible and open to new connections and challenges. If you are looking for a dedicated and committed developer, I am ready to exchange experiences and contribute to your projects.
 ## Skills
 
 
