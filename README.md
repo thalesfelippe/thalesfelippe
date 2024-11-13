@@ -1,7 +1,7 @@
 
 ## Hi there <div align="right">  <img src="https://komarev.com/ghpvc/?username=thalesfelippe&color=549FDE" alt="Profile views">  </div>
 
-Hello! I’m Thales Felippe, a Front-End Developer with a passion for creating responsive, user-friendly web applications. My journey in web development began in 2020, and since then, I've been on a continuous learning path, fueled by curiosity and dedication.
+I’m Thales Felippe, a Front-End Developer with a passion for creating responsive, user-friendly web applications. My journey in web development began in 2020, and since then, I've been on a continuous learning path, fueled by curiosity and dedication.
 
 I specialize in Front-End development using ReactJS, TypeScript, and JavaScript. My skill set also includes proficient use of Git and GitHub for version control, ensuring efficient collaboration and seamless project management. I prioritize building intuitive and accessible interfaces, adhering to modern best practices to provide users with an optimal experience.
 
