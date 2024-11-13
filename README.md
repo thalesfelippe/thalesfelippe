@@ -1,13 +1,13 @@
 
 ## Hi there <div align="right">  <img src="https://komarev.com/ghpvc/?username=thalesfelippe&color=549FDE" alt="Profile views">  </div>
 
-My name is Thales Felippe and I am a Front-End developer. My interest in web development arose in 2020, when a friend introduced me to a project. Since then, I have been learning to program on my own.
+Hello! I’m Thales Felippe, a Front-End Developer with a passion for creating responsive, user-friendly web applications. My journey in web development began in 2020, and since then, I've been on a continuous learning path, fueled by curiosity and dedication.
 
-With 2 years of experience, I focus my career on Front-End and have skills with technologies such as ReactJS, TypeScript and JavaScript. I also have knowledge in code versioning using Git and GitHub. I stand out in creating responsive and intuitive interfaces, with a focus on usability and accessibility. I'm always up to date with the latest trends and committed to following best development practices.
+I specialize in Front-End development using ReactJS, TypeScript, and JavaScript. My skill set also includes proficient use of Git and GitHub for version control, ensuring efficient collaboration and seamless project management. I prioritize building intuitive and accessible interfaces, adhering to modern best practices to provide users with an optimal experience.
 
-I am currently studying a degree in Systems Analysis and Development at Universidade Estácio, with the aim of further improving my knowledge and skills in the area.
+Currently, I’m advancing my technical expertise through a degree in Systems Analysis and Development at Universidade Estácio. I’m always eager to learn, adapt, and engage with the latest industry trends to stay at the forefront of front-end development.
 
-I am flexible and open to new connections and challenges. If you are looking for a dedicated and committed developer, I am ready to exchange experiences and contribute to your projects.
+I’m open to networking, knowledge exchange, and new challenges. If you’re looking for a dedicated developer to bring fresh insights and dedication to your team, let’s connect!
 ## Skills
 
 
