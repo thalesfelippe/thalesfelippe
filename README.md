@@ -6,7 +6,7 @@
 
 💡 I specialize in **ReactJS, Next.js, TypeScript, and Django**, creating clean, maintainable code while prioritizing performance and accessibility. My expertise extends to Git, CI/CD, and version control, ensuring smooth collaboration in all projects.
 
-🎓 Currently studying **Systems Analysis and Development** at **Universidade Estácio** while staying up-to-date with the latest industry trends. Always open to new challenges and knowledge exchange!
+🎓 Currently studying **Systems Analysis and Development** at **Universidade Estácio** while staying up-to-date with the latest industry trends.
 
 👩‍💻 Always open to new challenges and knowledge exchange. If you’re looking for a dedicated developer to bring fresh insights and dedication to your team, let’s connect!
 
