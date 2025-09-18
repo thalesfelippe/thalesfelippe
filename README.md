@@ -57,7 +57,7 @@ Tenho fluência em **Git, CI/CD** e boas práticas de arquitetura. Estudo **Aná
 ---
 
 ## 🤝 Vamos conversar?
-Se você procura alguém **mão na massa**, com **olhar de produto** e **apego à qualidade**, chama:
+Se você procura alguém que é **apaixonado** por **tecnologia** e em se manter sempre **atualizado**, entre em contato:
 - [LinkedIn](https://www.linkedin.com/in/thales-felippe/)
 - [E-mail](mailto:thales.dev.flp@gmail.com)
 
