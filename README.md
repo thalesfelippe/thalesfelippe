@@ -2,7 +2,6 @@
   <img src="./assets/header.svg" width="100%" alt="Thales Felippe — Software Engineer">
 </p>
 
-<h1 align="center">Thales Felippe</h1>
 <p align="center">
 </p>
 
