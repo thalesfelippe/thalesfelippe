@@ -31,11 +31,13 @@
 
 ## 👋 Sobre mim
 
-Sou **Full Stack Developer** com experiência desde 2021 construindo aplicações web para ambientes de **produto, fintech, SaaS e operação**.
+Sou **Desenvolvedor Full Stack** com experiência profissional desde 2021 na construção e evolução de aplicações web para ambientes de **produto, fintech, SaaS e operação**.
 
-Trabalho com **React, Next.js, TypeScript, Python, Django/DRF e APIs**, conectando front-end, back-end, integrações e regras de negócio para entregar sistemas estáveis, claros e fáceis de evoluir.
+Atualmente, faço parte do time de desenvolvimento da **Eccosys**, empresa de tecnologia especializada em ERP para e-commerce.
 
-Nos últimos anos, atuei em plataformas financeiras e sistemas de gestão, desenvolvendo **jornadas de negociação, dashboards operacionais, chats em tempo real, integrações com WhatsApp/CRM, gateways de pagamento, emissão fiscal, assinatura eletrônica, webhooks, rotinas assíncronas e melhorias de observabilidade**.
+Trabalho com **React, Next.js, TypeScript, Python, Django, Django REST Framework e Laravel**, conectando interfaces, APIs, integrações externas, processamento assíncrono e regras de negócio.
+
+Minha experiência inclui sistemas financeiros e administrativos, pagamentos, emissão fiscal, assinatura eletrônica, dashboards, chats em tempo real, webhooks, filas e integrações com plataformas externas.
 
 ---
 
@@ -71,15 +73,51 @@ Nos últimos anos, atuei em plataformas financeiras e sistemas de gestão, desen
 
 ## 📌 Atualmente
 
-Estou buscando minha próxima oportunidade como **Full Stack Developer / Software Engineer**, com abertura também para vagas de **Frontend React/Next.js** e **Backend Python/Django**.
+Atuo como **Desenvolvedor Full Stack Pleno na Eccosys**, contribuindo para a evolução de produtos e sistemas voltados a operações de e-commerce.
 
-Tenho interesse em times que constroem produtos digitais, sistemas internos, plataformas SaaS, soluções financeiras, integrações, automações e ferramentas para operação.
+Também continuo estudando e desenvolvendo projetos relacionados a:
+
+-   arquitetura de aplicações web;
+    
+-   back-end e integrações;
+    
+-   processamento assíncrono;
+    
+-   qualidade e observabilidade;
+    
+-   automação de desenvolvimento com inteligência artificial.
 
 ---
 
-## 🤝 Vamos conversar?
+## 🚀 Experiência em produtos
 
-Se sua empresa precisa de alguém para **construir produto, integrar sistemas, resolver problemas e melhorar fluxos operacionais com software confiável e bem estruturado**, vamos conversar.
+Ao longo da minha trajetória, trabalhei em projetos envolvendo:
+
+-   negociação e regularização de dívidas;
+    
+-   sistemas administrativos e financeiros;
+    
+-   gestão de associados, contratos e atendimentos;
+    
+-   pagamentos recorrentes e conciliação;
+    
+-   emissão de NFS-e;
+    
+-   assinatura digital;
+    
+-   comunicação por WhatsApp, SMS e e-mail;
+    
+-   CRM e gestão de leads;
+    
+-   dashboards gerenciais;
+    
+-   processamento de tarefas em segundo plano.
+
+---
+
+## 🤝 Contato
+
+Estou aberto a trocar experiências, colaborar em projetos e conhecer desafios alinhados ao meu perfil.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thales-felippe/">
